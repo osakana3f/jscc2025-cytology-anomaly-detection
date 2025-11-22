@@ -3,14 +3,6 @@
 
 １）rotate_image_augmentation.ijm
 
-２）train_svm.py
-
-３）predict_anomaly.py
-
-４）nuclear_morphometry.ijm
-
-１）rotate_image_augmentation.ijm
-
 90、180、270度回転させデータ拡張を行うコードです。指定したフォルダ内の画像を読み込み90、180、270度回転させた画像を新たに作成し同一フォルダに追加します。
 
 ２）train_svm.py
